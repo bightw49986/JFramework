@@ -1,0 +1,24 @@
+{
+  "name": "com.jonathanho.jframework",
+  "version": "1.0.0",
+  "displayName": "JFramework",
+  "description": "A modular Unity framework featuring SOAP architecture, object pooling, state machine, event system, audio management, scene management, UI utilities, and more.",
+  "unity": "6000",
+  "unityRelease": "0.0b1",
+  "dependencies": {
+    "com.unity.ugui": "2.0.0"
+  },
+  "keywords": [
+    "framework",
+    "soap",
+    "object-pool",
+    "state-machine",
+    "audio",
+    "event-system",
+    "scene-management"
+  ],
+  "author": {
+    "name": "Jonathan Ho",
+    "email": "hoyiju19940804@gmail.com"
+  }
+}
