@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "displayName": "JFramework",
   "description": "A modular Unity framework featuring SOAP architecture, object pooling, state machine, event system, audio management, scene management, UI utilities, and more.",
-  "unity": "6000",
-  "unityRelease": "0.0b1",
+  "unity": "6000.0",
   "dependencies": {
     "com.unity.ugui": "2.0.0"
   },
